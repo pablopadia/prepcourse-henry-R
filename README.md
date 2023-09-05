@@ -1,2 +1,2 @@
-# prepcourse-henry-R
-repositorio del modulo 2 del prepcourse de henry con readme.md incluido
+Pablo PADIA
+como crear un proyecto en github y clonarlo localmente
